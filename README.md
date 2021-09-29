@@ -1,0 +1,2 @@
+# frmDovizKuru
+Doviz kurşarı programıdır.
